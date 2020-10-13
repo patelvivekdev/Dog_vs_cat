@@ -9,3 +9,4 @@
     - Compiling 
     - Training
 5. Ploating Accuracy & loss
+![Image](https://github.com/Vivek2509/Dog_vs_cat/blob/main/Dog_vs_cat.png?raw=true)
